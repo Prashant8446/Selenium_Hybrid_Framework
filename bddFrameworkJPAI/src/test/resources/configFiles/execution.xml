@@ -1,0 +1,29 @@
+<suit>
+	
+	<suitSettings>
+		
+		<reportingPath> </reportingPath>
+		<executionEnv> </executionEnv>
+		<testDataFilePath> </testDataFilePath>
+		<sauceLabDeviceConfigurion> </sauceLabDeviceConfigurion>
+		<suitDegreeOfParallelism></suitDegreeOfParallelism>
+		
+	</suitSettings>
+	
+	<configurations>
+		<configuration>
+			<configId> </configId>
+			<browsers> </browsers>
+			<featureFilePath> </featureFilePath>
+			<glue> </glue>
+			<tags> </tags>
+			<sauceLabUrl> </sauceLabUrl>
+			<parallelSwitch> </parallelSwitch>
+			<degreeOfParallelism> </degreeOfParallelism>
+			
+		</configuration>
+			
+		
+	</configurations>
+	
+</suit>
